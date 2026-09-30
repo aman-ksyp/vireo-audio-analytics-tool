@@ -1,0 +1,59 @@
+VIREO AUDIO — SUPPORT TICKET INTELLIGENCE
+One-Page Handoff Memo
+
+To: Priya Raman, Head of Customer Experience
+Subject: Vireo Support Ticket Intelligence — June 2026 Handoff
+
+EXECUTIVE SUMMARY
+
+The analysis covers the supplied Vireo support-ticket data and uses the stated reporting window of January 2025 through June 2026 where applicable.
+
+Chat Frontline has the highest raw ticket volume: 3,030 tickets, representing 25.7% of the analyzed workload, with 40 agents and approximately 76 tickets per agent. Under the brief's stated hiring rule, the next two hires should therefore be assigned to Chat Frontline.
+
+A simple capacity scenario shows tickets per agent moving from 75.75 with 40 agents to 72.14 with 42 agents, a reduction of approximately 4.8%. This is a capacity scenario, not a guaranteed improvement in productivity, SLA performance, or customer experience.
+
+KEY BUSINESS FINDINGS
+
+• Delivery & logistics is the largest displayed ticket category in the analytics view.
+• Billing also represents a significant workload. Some Billing → Logistics handoffs may indicate opportunities to improve routing, but the current data does not establish causality.
+• The dataset contains 11,780 tickets and 44 support agents overall.
+• Observed refund value is approximately ₹5.33M across 1,894 tickets containing refund amounts. This is observed refund value, not estimated avoidable cost.
+• The source data has inconsistent date coverage: ticket records extend earlier than the requested January 2025–June 2026 reporting window. Client-facing reporting should therefore retain the reporting-window caveat.
+
+BUSINESS GOAL AND ₹ IMPACT
+
+A practical business goal is to reduce policy-linked support leakage while maintaining service quality.
+
+The support policy specifies:
+• ₹350 store credit for every first-response SLA breach.
+• ₹305 cost per internal transfer/re-handling event.
+
+For Chat Frontline during the analyzed January 2025–June 2026 period:
+• 3,030 tickets
+• 226 first-response SLA breaches
+• ₹79,100 SLA-credit exposure
+• 245 internal transfers
+• ₹74,725 transfer/re-handling cost
+• Combined observed policy-linked exposure: ₹153,825
+
+A 20% reduction scenario would represent approximately ₹30,765 of potential cost avoidance over the observed period.
+
+This ₹30,765 figure is a scenario/target, not measured savings or a guaranteed financial result. It should be validated through subsequent operational changes and monitoring.
+
+MONDAY HANDOFF
+
+1. Assign the next two hires to Chat Frontline under the stated highest-volume-team rule.
+2. Monitor monthly ticket volume by category and team.
+3. Track first-response SLA breaches and internal transfers as operational cost signals.
+4. Review low-confidence AI classifications before using them for operational decisions.
+5. Investigate recurring Billing → Logistics handoffs to determine whether routing or ownership can be improved.
+6. Recheck date coverage before using the dashboard for longer-term trend comparisons.
+7. Treat the two-hire calculation as a capacity scenario and validate the effect after implementation.
+
+AI / VALIDATION NOTE
+
+The categorization workflow uses Gemini-assisted classification with a source-derived fallback. The validation screen's high-confidence share is based on stored confidence thresholds and is NOT human-labeled model accuracy. Low-confidence classifications should be inspected before operational use.
+
+BOTTOM LINE
+
+The tool provides a repeatable starting point for support workload analysis, category monitoring, and policy-linked cost tracking. The immediate staffing recommendation follows the explicit volume rule in the brief, while the ₹30.8K figure provides a measurable scenario target for reducing support leakage.
